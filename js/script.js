@@ -59,11 +59,9 @@ setInterval(function(){
 $(".p_click").click(function(){
     $(".pop").fadeIn()
 })//p_click").click
-
 $(".close").click(function(){
     $(".pop").fadeOut()
-// })/close").click
-
+})//close").click
 
 
 
