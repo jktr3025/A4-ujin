@@ -57,11 +57,11 @@ setInterval(function(){
 
 //pop
 $(".p_click").click(function(){
-    $(".pop").fadeIn()
+    $(".pop").show()
 })//p_click").click
 
 $(".close").click(function(){
-    $(".pop").fadeOut()
+    $(".pop").hide()
 // })/close").click
 
 
